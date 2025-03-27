@@ -1,11 +1,10 @@
 <h1>Collatz Calculator Versions</h1>
-<p>This repository contains different versions of my Collatz calculator.</p>
-<h2>Version 1: 3xplus1.php</h2>
-<p>This is the initial version of the calculator. It's a basic implementation.</p>
-<h2>Version 2: 3x+1</h2>
-<p>This version is more advanced and includes a user interface. It's located in the <code>3x+1</code> folder and consists of two files:</p>
-<ul>
-  <li><code>functions.php</code>: Contains the core calculation logic.</li>
-  <li><code>mainform.php</code>: Provides a form for user input and displays the results.</li>
-</ul>
-<p>The <code>3x+1</code> version has more features than the <code>3xplus1.php</code> version.</p>
+<p>This repository shows the different versions of the Collatz calculator.</p>
+<h2>Version 1: 3x+1 Problem</h2>
+<p><strong>Task:</strong> Basic Collatz calculation .</p>
+<h2>Version 2: 3x+1 Function</h2>
+<p>Use of functions in seperate folder, more results.</p>
+<h2>Version 3: OOP: Object, Methods, Access Modifiers, $this, Constructor</h2>
+<p>OOP rewrite, class, methods, constructor.</p>
+<h2>Version 4: Inheritance, constants</h2>
+<p>Incorporates the concepts inheritance,constants and usage of histograms.</p>
