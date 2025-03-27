@@ -23,3 +23,18 @@
 /app/Config/core.php
 /app/Config/database.php
 /vendors/*
+# === Environment & Logs ===
+.env
+.env.local
+*.log
+error_log
+
+# === System/Editor Files ===
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# === Composer ===
+vendor/
