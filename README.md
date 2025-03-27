@@ -7,4 +7,4 @@
 <h2>Version 3: OOP: Object, Methods, Access Modifiers, $this, Constructor</h2>
 <p>OOP rewrite, class, methods, constructor.</p>
 <h2>Version 4: Inheritance, constants</h2>
-<p>Incorporates the concepts inheritance,constants and usage of histograms.</p>
+<p>Incorporates the concepts inheritance,constants and histograms.</p>
